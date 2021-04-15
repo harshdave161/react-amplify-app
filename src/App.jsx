@@ -17,7 +17,9 @@ function App() {
   //     const 
   //   } catch (error) {}
   // }
-  const dummyData = [{"name":"harsh", "score": 15},{"name":"harsh", "score": 15},{"name":"harsh", "score": 15}]
+  const dummyData = [{"name":"harsh", "score": 15},
+                    {"name":"harsh", "score": 15},
+                    {"name":"harsh", "score": 15}]
 
   return (
     <div className="App">
