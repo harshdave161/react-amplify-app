@@ -1,0 +1,7 @@
+type reactamplifyapp @model {
+  id: ID!
+  name: String!
+  description: String
+  follower: Int
+  image: String
+}
